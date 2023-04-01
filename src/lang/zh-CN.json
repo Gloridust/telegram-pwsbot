@@ -29,7 +29,7 @@
   "err_no_auth_kick": "很抱歉，机器人没有拥有频道管理员权限！\n请将机器人从频道黑名单放出来，然后再试",
   "err_reject_reason": "很抱歉，礼貌起见需要 `/no <拒绝理由>`才能拒绝稿件",
   "admin_reject_finish": "已经拒绝此稿件，理由: \n`{{reason}}`",
-  "start": "可接收的投稿类型: \n文字 \n图片 \n音频/语音 \n视频 \n文件",
+  "start": "这里是慕雨文案馆 @WannaRainsNote 的投稿机器人，直接发送投稿内容即可完成投稿。",
   "err_no_sub": "很抱歉，没有找到稿件！",
   "err_repeat": "此稿件已经发表，请勿重复操作",
   "err_repeat_reject": "此稿件已经拒绝，请勿重复操作",
